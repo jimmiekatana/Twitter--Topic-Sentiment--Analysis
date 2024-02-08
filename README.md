@@ -1,2 +1,4 @@
 # Twitter--Topic-Sentiment--Analysis
-Scraping  and Sentiment Analysis of tweets referencing a topic 
+**Description**
+It involves analyzing tweets to determine the sentiment expressed in them ,such as positive ,negative or neutral.
+Here is the outine on how you can perform Sentimnet Analysis on twitter topics :
