@@ -7,7 +7,10 @@ Here is the outine on how you can perform Sentimnet Analysis on twitter topics
 **Libraries required** 
 
 nlp
+
 wordcloudn
+
 nltk
+
 tweepy
 
