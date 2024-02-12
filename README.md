@@ -13,4 +13,5 @@ wordcloudn
 nltk
 
 tweepy
-
+**Data Collection**
+Gathering tweets related to the topic of intrest.This can be done  by scraping data from twitter using the web scraping techiniques.
