@@ -1,8 +1,8 @@
 # Twitter--Topic-Sentiment--Analysis
 **Introduction**
 
-The purpose of this project is to perform sentiment analysis on the tweets  scraped from the twitter platiform.
-The data will be cleaned and preprocesed before performing the sentiment analysis .This involves using natural language processing (NLP) techniques to classify tweets as positive ,negative or neutral based on language used in the tweets .
+The purpose of this project is to perform sentiment analysis on the tweets  scraped from the twitter platform.
+The data will be cleaned and preprocessed before performing the sentiment analysis .This involves using natural language processing (NLP) techniques to classify tweets as positive ,negative or neutral based on language used in the tweets .
 Tools and algorithms used for sentiment analysis typically employ machine learning techniques to classify tweets accurately.
 These algorithms may consider various factors, including the use of certain words or phrases, emoticons,hashtags, and context within the tweet.
 
@@ -18,7 +18,7 @@ tweepy
 
 **Scraping**
 
-Gather tweets related to the topic of intrest by first adding the Twitter API key and secret.
+Gather tweets related to the topic of interest by first adding the Twitter API key and secret.
 
 Create  a Helper function for handling pagination in our search and handle rate limits.
 
