@@ -6,7 +6,7 @@ The data will be cleaned and preprocesed before performing the sentiment analysi
 Tools and algorithms used for sentiment analysis typically employ machine learning techniques to classify tweets accurately.
 These algorithms may consider various factors, including the use of certain words or phrases, emoticons,hashtags, and context within the tweet.
 
-#**Tools and technologies** 
+**Tools and technologies** 
 
 nlp
 
@@ -16,7 +16,7 @@ nltk
 
 tweepy
 
-#**Scraping**
+**Scraping**
 
 Gather tweets related to the topic of intrest by first adding the Twitter API key and secret.
 
@@ -27,7 +27,7 @@ Define  the term we will be using for searching tweets and how many tweets to ge
 Then, Process  the results from the search using Tweepy.
 
 
-#**Analysis**
+**Analysis**
 
 1.Set up the API call to the Inference API to do sentiment analysis.
 
@@ -40,7 +40,7 @@ Then, Process  the results from the search using Tweepy.
 5.Visualize the sentiments using Wordcloud with positive tweets and Wordcloud with negative tweets.
 
 
-#**Conclusion**
+**Conclusion**
 
 Twitter sentiment analysis can be useful for businesses, marketers, and researchers to understand public opinion about their products, services, or events. It can also be used to track trends, monitor brand reputation, and identify potential issues or opportunities.
 
